@@ -388,23 +388,15 @@ Focused investigation of SLA-breached incidents including:
 
 # Key Findings
 
-### Finding 1
+• 39.3% of incidents breached SLA targets, indicating opportunities to improve operational responsiveness.
 
-Incident complexity shows a strong positive relationship with MTTR.
+• Incident complexity shows a strong positive relationship with MTTR (r = 0.70), making complexity one of the strongest drivers of resolution performance.
 
-Higher complexity incidents require significantly longer resolution times.
+• Groups 66 and 72 exhibit the highest SLA breach rates among high-volume support teams.
 
-### Finding 2
+• Categories 26, 42, and 53 generate the largest share of incident volume.
 
-Support teams with higher reassignment activity experience lower SLA performance.
-
-### Finding 3
-
-A small number of categories account for a disproportionate share of incident volume.
-
-### Finding 4
-
-Reassignments and update counts are strong indicators of operational complexity.
+• Reassignments are positively correlated with MTTR, suggesting ticket routing inefficiencies.
 
 ---
 
@@ -451,25 +443,15 @@ The model identifies the strongest drivers of SLA breaches and highlights operat
 
 # Business Recommendations
 
-### Recommendation 1
+• Implement automated routing and skill-based assignment rules to reduce ticket reassignments.
 
-Reduce ticket reassignments through automated routing and ownership assignment.
+• Expand knowledge base coverage for high-volume incident categories.
 
-### Recommendation 2
+• Introduce escalation workflows for high-complexity incidents.
 
-Develop knowledge articles and self-service solutions for recurring incident categories.
+• Conduct targeted operational reviews for teams with high SLA breach rates.
 
-### Recommendation 3
-
-Introduce escalation workflows for high-complexity incidents.
-
-### Recommendation 4
-
-Monitor teams with consistently high SLA breach rates.
-
-### Recommendation 5
-
-Use SLA breach prediction as an early-warning mechanism for proactive intervention.
+• Use complexity metrics and SLA risk indicators to proactively identify at-risk incidents.
 
 ---
 
