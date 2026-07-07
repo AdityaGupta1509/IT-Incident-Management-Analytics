@@ -275,6 +275,8 @@ Complexity was found to have a strong relationship with MTTR and SLA performance
 
 ## Dashboard 1 — Executive Overview
 
+![Executive Dashboard](screenshots/executive_dashboard.png)
+
 ### KPIs
 
 - Total Incidents
@@ -299,6 +301,8 @@ Provide leadership with a high-level view of operational health and service qual
 
 ## Dashboard 2 — Operations Dashboard
 
+![Operations Dashboard](screenshots/operations_dashboard.png)
+
 ### KPIs
 
 - Reassignment Rate
@@ -320,6 +324,8 @@ Identify overloaded teams, operational bottlenecks, and service issues.
 ---
 
 ## Dashboard 3 — Complexity Dashboard
+
+![Complexity Dashboard](screenshots/complexity_dashboard.png)
 
 ### KPIs
 
@@ -345,7 +351,7 @@ Understand how operational complexity impacts performance and SLA outcomes.
 ## Drill-Through Pages
 
 ### Team Performance
-
+![Team Drillthrough](screenshots/team_performance.png)
 Detailed team-level investigation including:
 
 - Incident Volume
@@ -354,15 +360,23 @@ Detailed team-level investigation including:
 - Category Distribution
 
 ### Category Analysis
-
+![Category Drillthrough](screenshots/category_analysis.png)
 Detailed category-level root cause analysis including:
 
 - Incident Trends
 - SLA Performance
 - Team Distribution
 
-### SLA Investigation
+### Sub Category Analysis
+![Sub Category Drillthrough](screenshots/sub_category_analysis.png)
+Detailed sub category-level root cause analysis including:
 
+- Incident Trends
+- SLA Performance
+- Team Distribution
+
+### SLA Investigation
+![SLA Investigation](screenshots/sla_investigation.png)
 Focused investigation of SLA-breached incidents including:
 
 - Breach Drivers
